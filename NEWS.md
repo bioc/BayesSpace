@@ -1,3 +1,8 @@
+# BayesSpace 1.15.3
+
+## Minor improvements and fixes
+
+- Minor improvement of code style
 
 # BayesSpace 1.15.2
 
